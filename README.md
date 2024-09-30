@@ -1,16 +1,15 @@
-# mini_bloc
+## Student Management Application
+This is a student management application developed using Flutter with API integration and state management handled by BLoC. It allows users to manage student details through CRUD operations.
 
-A new Flutter project.
+# Key Features:
+ 
+* Add Student: Add new students with details like name, roll number, age, department, and phone number.
+* CRUD Operations: The app supports the following operations:
+* POST: Add new students.
+* PATCH: Update student details.
+* DELETE: Remove student records.
+* GET: Fetch and display student information.
+* State Management: The app uses BLoC for efficient state management, ensuring smooth user experience and data handling.
+  
+This project demonstrates my ability to develop full-stack applications with API integration, CRUD operations, and state management using Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
