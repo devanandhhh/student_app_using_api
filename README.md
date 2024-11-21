@@ -1,3 +1,5 @@
+![Image Alt](https://github.com/devanandhhh/student_app_using_api/blob/689995dea9a7b52d1c34b50b8c5b70d1fb68b452/cover%20(3).png)
+
 ## Student Management Application
 This is a student management application developed using Flutter with API integration and state management handled by BLoC. It allows users to manage student details through CRUD operations.
 
